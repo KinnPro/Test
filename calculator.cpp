@@ -18,6 +18,7 @@ double Calculator::divide(int a, int b) {
     }
     return static_cast<double>(a) / b;
 }
+<<<<<<< HEAD
 
 // 实现新函数
 double Calculator::squareRoot(double x) {
@@ -40,3 +41,6 @@ double Calculator::logarithm(double x) {
     }
     return count + (x - 1);
 }
+=======
+//()
+>>>>>>> feature/scientific-calc
